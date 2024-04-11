@@ -1,0 +1,28 @@
+C:\CursoNet\Intro_Ej\bin\Debug\net8.0\Intro_Ej.exe
+C:\CursoNet\Intro_Ej\bin\Debug\net8.0\Intro_Ej.deps.json
+C:\CursoNet\Intro_Ej\bin\Debug\net8.0\Intro_Ej.runtimeconfig.json
+C:\CursoNet\Intro_Ej\bin\Debug\net8.0\Intro_Ej.dll
+C:\CursoNet\Intro_Ej\bin\Debug\net8.0\Intro_Ej.pdb
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.AssemblyInfoInputs.cache
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.AssemblyInfo.cs
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.csproj.CoreCompileInputs.cache
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.dll
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\refint\Intro_Ej.dll
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.pdb
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\Intro_Ej.genruntimeconfig.cache
+C:\CursoNet\Intro_Ej\obj\Debug\net8.0\ref\Intro_Ej.dll
+C:\CursoNet\1.2 Intro (Ejercicio)\bin\Debug\net8.0\Intro_Ej.exe
+C:\CursoNet\1.2 Intro (Ejercicio)\bin\Debug\net8.0\Intro_Ej.deps.json
+C:\CursoNet\1.2 Intro (Ejercicio)\bin\Debug\net8.0\Intro_Ej.runtimeconfig.json
+C:\CursoNet\1.2 Intro (Ejercicio)\bin\Debug\net8.0\Intro_Ej.dll
+C:\CursoNet\1.2 Intro (Ejercicio)\bin\Debug\net8.0\Intro_Ej.pdb
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.AssemblyInfoInputs.cache
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.AssemblyInfo.cs
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.csproj.CoreCompileInputs.cache
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.dll
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\refint\Intro_Ej.dll
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.pdb
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\Intro_Ej.genruntimeconfig.cache
+C:\CursoNet\1.2 Intro (Ejercicio)\obj\Debug\net8.0\ref\Intro_Ej.dll
